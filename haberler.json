@@ -15,33 +15,54 @@
       "metin": "Danışma sohbetlerinizi HTML/PDF rapor olarak dışa aktarabilir, dilekçeye tek tıkla taşıyabilirsiniz.",
       "baglanti": "",
       "bitis": "2026-12-31"
+    },
+    {
+      "tarih": "",
+      "metin": "Avukat Hakları Grubu'nu X ve Instagram'da takip edin: @AvukatHG · @avhaklarigrubu",
+      "baglanti": "https://x.com/AvukatHG"
     }
   ],
   "sosyal": [
-    { "ad": "X", "adres": "https://x.com/" },
-    { "ad": "Instagram", "adres": "https://instagram.com/" },
-    { "ad": "LinkedIn", "adres": "https://linkedin.com/" }
+    { "ad": "X", "adres": "https://x.com/AvukatHG" },
+    { "ad": "Instagram", "adres": "https://www.instagram.com/avhaklarigrubu/" },
+    { "ad": "LinkedIn", "adres": "https://www.linkedin.com/in/avhaklarigrubu/" },
+    { "ad": "X · Ankara", "adres": "https://x.com/AHGAnkara" },
+    { "ad": "Instagram · Ankara", "adres": "https://www.instagram.com/ahgankara/" }
   ],
   "gonderiler": [
     {
       "platform": "X",
-      "tarih": "21 Eyl",
-      "metin": "Avukat Hakları Grubu olarak meslektaşlarımızın dijital araçlara erişimini kolaylaştırmaya devam ediyoruz. AHG Asistan çok yakında.",
-      "baglanti": "https://x.com/",
+      "tarih": "AvukatHG",
+      "metin": "Avukat Hakları Grubu'nun güncel paylaşımları, açıklamaları ve duyuruları için X hesabımızı takip edin.",
+      "baglanti": "https://x.com/AvukatHG",
       "gorsel": ""
     },
     {
       "platform": "Instagram",
-      "tarih": "18 Eyl",
-      "metin": "Adliyede avukat hakları: bilmeniz gereken 5 madde. Paylaşımın tamamı için tıklayın.",
-      "baglanti": "https://instagram.com/",
+      "tarih": "avhaklarigrubu",
+      "metin": "Etkinlikler, basın açıklamaları ve meslektaş dayanışması: Instagram hesabımız.",
+      "baglanti": "https://www.instagram.com/avhaklarigrubu/",
       "gorsel": ""
     },
     {
       "platform": "LinkedIn",
-      "tarih": "15 Eyl",
-      "metin": "AHG'nin yeni dönem çalışma takvimi yayında.",
-      "baglanti": "https://linkedin.com/",
+      "tarih": "avhaklarigrubu",
+      "metin": "AHG'nin mesleki gündemi ve çalışma takvimi LinkedIn'de.",
+      "baglanti": "https://www.linkedin.com/in/avhaklarigrubu/",
+      "gorsel": ""
+    },
+    {
+      "platform": "X",
+      "tarih": "AHGAnkara",
+      "metin": "AHG Ankara: başkentteki meslektaşlarımız için duyurular ve etkinlikler.",
+      "baglanti": "https://x.com/AHGAnkara",
+      "gorsel": ""
+    },
+    {
+      "platform": "Instagram",
+      "tarih": "ahgankara",
+      "metin": "AHG Ankara Instagram hesabı: etkinlik ve paylaşımlar.",
+      "baglanti": "https://www.instagram.com/ahgankara/",
       "gorsel": ""
     }
   ]
