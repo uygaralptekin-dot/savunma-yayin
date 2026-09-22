@@ -1,0 +1,48 @@
+{
+  "haberler": [
+    {
+      "tarih": "22.09.2026",
+      "metin": "AHG Asistan yayına hazırlanıyor: yeni arayüz, Hukuk Kütüphanesi ve tek tıkla yapay zekâ bağlantısı.",
+      "baglanti": "https://github.com/uygaralptekin-dot/savunma-yayin/releases"
+    },
+    {
+      "tarih": "",
+      "metin": "Claude, Codex ve Gemini'yi Bağlantı › Yapay Zekâ Bağlantısı'ndan tek tıkla bağlayın; dosyalarınızı sohbette sorun.",
+      "baglanti": ""
+    },
+    {
+      "tarih": "",
+      "metin": "Danışma sohbetlerinizi HTML/PDF rapor olarak dışa aktarabilir, dilekçeye tek tıkla taşıyabilirsiniz.",
+      "baglanti": "",
+      "bitis": "2026-12-31"
+    }
+  ],
+  "sosyal": [
+    { "ad": "X", "adres": "https://x.com/" },
+    { "ad": "Instagram", "adres": "https://instagram.com/" },
+    { "ad": "LinkedIn", "adres": "https://linkedin.com/" }
+  ],
+  "gonderiler": [
+    {
+      "platform": "X",
+      "tarih": "21 Eyl",
+      "metin": "Avukat Hakları Grubu olarak meslektaşlarımızın dijital araçlara erişimini kolaylaştırmaya devam ediyoruz. AHG Asistan çok yakında.",
+      "baglanti": "https://x.com/",
+      "gorsel": ""
+    },
+    {
+      "platform": "Instagram",
+      "tarih": "18 Eyl",
+      "metin": "Adliyede avukat hakları: bilmeniz gereken 5 madde. Paylaşımın tamamı için tıklayın.",
+      "baglanti": "https://instagram.com/",
+      "gorsel": ""
+    },
+    {
+      "platform": "LinkedIn",
+      "tarih": "15 Eyl",
+      "metin": "AHG'nin yeni dönem çalışma takvimi yayında.",
+      "baglanti": "https://linkedin.com/",
+      "gorsel": ""
+    }
+  ]
+}
